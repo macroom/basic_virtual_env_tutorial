@@ -7,6 +7,7 @@ Basic tutorial for git workflow practice and setting up python virtual environme
     Login
     Show root directory (/) [describe directories - contain files, other directories]
     ls - al
+    ls -l
     pwd
     later on, anytime when we reference a file, if we start with a /, we start referencing from root (absolute path)
     Navigate directories (pwd, cd, ls)
